@@ -1,5 +1,5 @@
-# 5reep4thy.github.io
 
-## Hey there! I'm Sreepathy Jayanand.
+## Hey there! I'm Sreepathy Jayanand. Get more details [here](# Connect)
 
-## Linkedin page - https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/
+## Connect
+Linkedin - https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/
