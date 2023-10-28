@@ -1,6 +1,6 @@
 
-## Hey there! I'm Sreepathy Jayanand. 
-I'm a software engineer passionate in creating performance intensive applications.
+## Hey there!
+I'm Sreepathy Jayanand, a software engineer passionate in creating performance intensive applications.
 * [Interests](https://5reep4thy.github.io/#interests)
 * [Education](https://5reep4thy.github.io/#education)
 * [Skills](https://5reep4thy.github.io/#skills)
