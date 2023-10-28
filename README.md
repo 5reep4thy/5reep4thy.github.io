@@ -1,10 +1,10 @@
 
 ## Hey there! I'm Sreepathy Jayanand. 
 I'm a software engineer passionate in creating performance intensive applications.
-* [Interests](#intersts)
-* [Education](#education)
-* [Skills](#skills)
-* [Projects](#projects)
+* [Interests](https://5reep4thy.github.io/#interests)
+* [Education](https://5reep4thy.github.io/#education)
+* [Skills](https://5reep4thy.github.io/#skills)
+* [Projects](https://5reep4thy.github.io/#projects)
 
 Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/)
 
