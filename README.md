@@ -9,7 +9,7 @@ I'm Sreepathy Jayanand, a software engineer passionate in creating performance i
 
 Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/)
 
-Incase of any opportunities, you can find my resume [here](https://drive.google.com/file/d/15v9TB8kL7kmgH3aCRlXkDbqVvVgqPJY5/view?usp=share_link)
+For any opportunities, you can find my resume [here](https://drive.google.com/file/d/15v9TB8kL7kmgH3aCRlXkDbqVvVgqPJY5/view?usp=share_link)
 
 ## Interests
 * Data Structures & Algorithms
