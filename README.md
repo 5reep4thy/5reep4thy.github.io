@@ -1,11 +1,12 @@
 
 ## Hey there! I'm Sreepathy Jayanand. 
 I'm a software engineer passionate in creating performance intensive applications.
-* [Interests](# Intersts)
-* [Education](# Education)
-* [Skills](# Skills)
-* [Projects](# Projects)
-Feel free to connect [here](# Connect)
+* [Interests](#intersts)
+* [Education](#education)
+* [Skills](#skills)
+* [Projects](#projects)
+
+Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/)
 
 ## Interests
 * Data Structures & Algorithms
@@ -27,6 +28,3 @@ Feel free to connect [here](# Connect)
     * Kubernetes
 
 
-## 
-## Connect
-Linkedin - https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/
