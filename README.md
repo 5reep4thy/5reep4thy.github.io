@@ -9,19 +9,18 @@ I'm Sreepathy Jayanand, a software engineer passionate in creating performance i
 
 Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/)
 
-For any opportunities, you can find my resume [here](https://drive.google.com/file/d/15v9TB8kL7kmgH3aCRlXkDbqVvVgqPJY5/view?usp=share_link)
 
 ## Interests
 * Data Structures & Algorithms
 * High performance computing
 * Compilers
-* Graphics
-* Cryptography
+* Graphics 
 
 ## Skills
 * Programming
     * C++
     * Python
+    * Rust
     * ARM Assembly
     * C
 * Tools
