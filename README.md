@@ -1,6 +1,6 @@
 
 ## Hey there!
-I'm Sreepathy Jayanand, a software engineer passionate in creating performance intensive applications.
+I'm Sreepathy Jayanand, a software developer passionate in creating performance intensive applications.
 
 * [Interests](https://5reep4thy.github.io/#interests)
 * [Education](https://5reep4thy.github.io/#education)
@@ -8,7 +8,7 @@ I'm Sreepathy Jayanand, a software engineer passionate in creating performance i
 * [Projects](https://github.com/5reep4thy?tab=repositories)
 * [Experience](https://5reep4thy.github.io/#Experience)
 
-Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayanand-b9b20617a/)
+Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayanand/)
 
 
 ## Interests
@@ -20,10 +20,10 @@ Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayana
 ## Skills
 * Programming
     * C++
+    * C
     * Python
     * Rust
     * ARM Assembly
-    * C
 * Tools
     * Git
     * DevOps - Azure & Github
@@ -31,7 +31,9 @@ Feel free to connect via [linkedin](https://www.linkedin.com/in/sreepathy-jayana
     * Kubernetes
     
 ## Experience
-I've worked at AMD for 3 years, developing in-house software for AI platforms, DevOps and Automation
+I'm currently working at IBM for the past 1 year as a software developer for their TM1 server, an in-memory database for online-analytics processing. I've worked in various areas, contributing to features, removing bugs that customers raise.
+
+Prior to this, I've worked at AMD for 3 years, developing software for their AI Platforms.
 
 ## Education
-I've got my B.Tech + M.Tech in Computer Engineering from Indian Institute of Information Technology Kancheepuram.
+I've got my B.Tech + M.Tech in Computer Engineering from Indian Institute of Information Technology Kancheepuram. I've also secured an All India rank of 270 in GATE CSE.
